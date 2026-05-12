@@ -27,6 +27,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/tailwind/tailwind.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postman/postman.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/unrealengine.svg" />
 </p>
 
