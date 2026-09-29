@@ -33,6 +33,6 @@
 
 <h3 align="center">My Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-alpha-lac-28.vercel.app/api?username=kenpario&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="180"/>
-  <img src="https://github-readme-stats-alpha-lac-28.vercel.app/api/top-langs?username=kenpario&layout=compact&theme=tokyonight&hide_border=true" width="400" height="170"/>
+  <img src="https://github-readme-stats-alpha-lac-28.vercel.app/api?username=kenpario&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="165"/>
+  <img src="https://github-readme-stats-alpha-lac-28.vercel.app/api/top-langs?username=kenpario&layout=compact&theme=tokyonight&hide_border=true" width="300" height="165"/>
 </p>
